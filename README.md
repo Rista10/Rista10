@@ -2,7 +2,8 @@
   Hi, I'm Rista Shrestha! 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFldndtcmFrZ21uZ2I5bmxjN3QwYjZ4bDRhdjRrZ2Nhc2loajRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="60">
 </h2>
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNpenA1cHpvY2s2aGR5cDZxdnZtcjFrcG84MHN6MHp0dWxmNWNkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="230">
+
 <p><em>Computer Science Enthusiast</br>
 Software Engineer at <a href="https://perceive-now.com/">Perceive Now</a>
 </em></p>
@@ -24,7 +25,9 @@ const me = {
   devops: ["Docker"]
 }
 ```
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<em><b>Passionate about software development and data engineering</b> and always excited to build technology that solves real-world problems.</em>
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="margin-right: 8px;">
+  <em><b>Passionate about software development and data engineering</b> and always excited to build technology that solves real-world problems.</em>
+</div>
 
 ---

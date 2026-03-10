@@ -22,7 +22,7 @@ const me = {
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["FastAPI", "Node.js"],
   data: ["Snowflake", "dbt", "PostgreSQL", "MongoDB"],
-  devops: ["Docker"]
+  tools: ["Docker"]
 }
 ```
 <div style="display: flex; align-items: center;">

@@ -2,10 +2,10 @@
   Hi, I'm Rista Shrestha! 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFldndtcmFrZ21uZ2I5bmxjN3QwYjZ4bDRhdjRrZ2Nhc2loajRxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="60">
 </h2>
-<img align="right" src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>Computer Science Enthusiast</br>
-Software Engineer at <a href="https://perceive-now.com/">Perceive Now</a>
+Software Engineer at <a href="https://perceivenow.ai/">Perceive Now</a>
 </em></p>
 
 [![Linkedin: rista-shrestha](https://img.shields.io/badge/-rista--shrestha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rista-shrestha)](https://www.linkedin.com/in/rista-shrestha)

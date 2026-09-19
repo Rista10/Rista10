@@ -18,16 +18,16 @@ Software Engineer at <a href="https://guardsix.com/">GuardSix</a>
 
 ```javascript
 const me = {
-  languages: ["Python", "SQL", "JavaScript", "TypeScript"],
+  languages: ["Python", "Java", "TypeScript", "JavaScript", "C++", "C", "SQL"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["FastAPI", "Node.js"],
-  data: ["Snowflake", "dbt", "PostgreSQL", "MongoDB"],
-  tools: ["Docker"]
+  backend: ["FastAPI", "Node.js", "Express", "Spring Boot", "REST APIs"],
+  data: ["PostgreSQL", "MySQL", "MongoDB", "PyTorch", "Pandas", "NumPy", "SQL"],
+  tools: ["Git", "Docker", "Linux", "CI/CD"]
 }
 ```
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="margin-right: 8px;">
-  <em><b>Passionate about software development and data engineering</b> and always excited to build technology that solves real-world problems.</em>
+  <em><b>Passionate about software development and open source</b> and always excited to build technology that solves real-world problems.</em>
 </div>
 
 ---
